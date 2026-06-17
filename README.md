@@ -1,10 +1,8 @@
 🎬 Movie Search App
 A console-based application for searching movies by multiple parameters with poster display and search history tracking.
----
 📌 Project Overview
 This project was built as part of a data analytics training program using a dataset of 100,000+ IMDb records stored in a MySQL database.  
 The app allows users to interactively filter movies, view posters, and revisit their search history — all from a Jupyter Notebook interface.
----
 ✨ Features
 🔍 Multi-parameter search — filter by genre, release year, actor name, minimum IMDb rating, and keywords
 🎭 Dynamic SQL query builder — conditions are assembled based on user input only
